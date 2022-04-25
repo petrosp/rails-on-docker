@@ -1,6 +1,6 @@
 require "open-uri"
 
-base_uri = "https://raw.githubusercontent.com/adzienis/Docker-Rails-Generator/master/App-Template/"
+base_uri = "https://raw.githubusercontent.com/petrosp/rails-on-docker/master/App-Template/"
 
 files = [
   ".github/workflows/tests.yml",
